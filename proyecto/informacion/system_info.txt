@@ -40,3 +40,44 @@
 
 ==== Alumno Brazi====
 
+========== FASTFETCH DE BEARZOTTI ==========
+                             ....
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'[1G[19A[47Cvagrant@ubuntu-jammy
+[47C--------------------
+[47COS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+[47CHost: VirtualBox (1.2)
+[47CKernel: Linux 5.15.0-161-generic
+[47CUptime: 1 hour, 26 mins
+[47CPackages: 600 (dpkg), 3 (snap)
+[47CShell: bash 5.1.16
+[47CTerminal: 
+[47CCPU: 12th Gen Intel(R) Core(TM) i7-12650H (2) @ 2.69 GHz
+[47CGPU: InnoTek Systemberatung GmbH VirtualBox Graphics Adapter
+[47CMemory: 383.55 MiB / 1.92 GiB (20%)
+[47CSwap: Disabled
+[47CDisk (/): 2.04 GiB / 38.70 GiB (5%) - ext4
+[47CLocal IP (enp0s8): 192.168.1.33/24
+[47CBattery (1): 100% [AC Connected]
+[47CLocale: C.UTF-8
+[47C
+[47C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[47C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+
