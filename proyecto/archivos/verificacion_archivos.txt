@@ -1,0 +1,26 @@
+========== VERIFICACIÓN DE ARCHIVOS - BEARZOTTI ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_bearzotti
+/mnt/lvm_storage_bearzotti/lost+found
+/mnt/lvm_storage_bearzotti/respaldos
+/mnt/lvm_storage_bearzotti/temporal
+/mnt/lvm_storage_bearzotti/proyectos
+/mnt/lvm_storage_bearzotti/proyectos/archivados
+/mnt/lvm_storage_bearzotti/proyectos/activos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:01 /mnt/lvm_storage_bearzotti/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 30 21:02 /mnt/lvm_storage_bearzotti/proyectos/activos/documento_01.txt
+
