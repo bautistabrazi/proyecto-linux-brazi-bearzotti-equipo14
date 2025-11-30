@@ -1,0 +1,12 @@
+======= INFORMACIÓN DE USUARIOS Y GRUPOS - BRAZI ========
+Usuario actual:
+vagrant
+Grupos del usuario:
+vagrant
+ID del usuario:
+uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant)
+Usuarios del sistema:
+estudiante1:x:1006:1006::/home/estudiante1:/bin/sh
+estudiante2:x:1007:1007::/home/estudiante2:/bin/sh
+estudiante3:x:1008:1008::/home/estudiante3:/bin/sh
+

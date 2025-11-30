@@ -8,3 +8,12 @@ drwxr-x--- 7 vagrant vagrant 4096 Nov 28 01:46 ..
 Archivos en directorio colaborativo:
 Información del grupo equipotrabajo:
 equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+========== VERIFICACIÓN DE PERMISOS - BRAZI ==========
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Nov 26 01:21 .
+drwxr-xr-x 10 vagrant vagrant 4096 Nov 30 20:25 ..
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+equipotrabajo:x:1009:estudiante1,estudiante2,estudiante3,vagrant
+
