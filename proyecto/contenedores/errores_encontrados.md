@@ -43,3 +43,15 @@ En la interfaz de Prometheus aparecía:
 
 ---
 
+
+===== Contenido de error_config.txt =====
+yaml.scanner.ScannerError: while scanning a simple key
+  in "./docker-compose.yml", line 48, column 1
+could not find expected ':'
+  in "./docker-compose.yml", line 49, column 1
+
+===== Contenido de primer_error.txt =====
+yaml.scanner.ScannerError: while scanning a simple key
+  in "./docker-compose.yml", line 48, column 1
+could not find expected ':'
+  in "./docker-compose.yml", line 49, column 1
