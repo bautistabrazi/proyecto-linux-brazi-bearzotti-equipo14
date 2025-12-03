@@ -45,10 +45,10 @@ La configuración se verificó con los comandos: pvscan, vgscan y lvscan.
 
 5. Gestión de archivos y directorios
 
-Dentro del punto de montaje de la LVM se generó la estructura de directorios utilizando:
-mkdir -p /lvm_sotrage_BruchesUserX/{proyectos/{activos,archivados},respaldos,temporales}
+Dentro del punto de montaje de la LVM se generó la estructura de directorios.
 
 Con el bucle proporcionado se crearon 10 archivos en la carpeta temporales.
+
 Posteriormente:
 
 Los archivos 01–05 se copiaron a activos
