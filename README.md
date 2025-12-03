@@ -5,25 +5,24 @@ Entrega Final
 
 0. Máquinas virtuales e IPs
 
-Se prepararon tres máquinas virtuales con una distribución GNU/Linux Jammy’s/64.
+Se prepararon dos máquinas virtuales con una distribución GNU/Linux Jammy’s/64.
 A cada VM se le identificó su dirección IP, la cual se registró en el archivo solicitado en la presentación.
 Además, cada dirección IP fue guardada dentro del repositorio local de cada máquina para facilitar la comprobación del funcionamiento.
 
 1. Configuración inicial y repositorio
 
-Se creó un repositorio nuevo con el nombre indicado: practica-linux-Bruches-Bruches_Team, y se clonó en las tres VMs.
+Se creó un repositorio nuevo con el nombre indicado: practica-linux-brazi-bearzotti-equipo14, y se clonó en las dos VMs.
 Las capturas de pantalla se almacenan dentro del repositorio, organizadas en un directorio principal y subdivididas según cada VM.
 Para revisar la estructura del proyecto, se instaló la herramienta tree.
 
 2. Fastfetch
 
-Desde la primera máquina (user1) se generó el archivo con la información del sistema utilizando fastfetch, y se subió al repositorio.
-En la VM de user2 se realizó un pull para incorporar ese archivo, agregar su propia información y volver a subir los cambios.
-El mismo procedimiento se repitió luego con la máquina del user3.
+Desde la primera máquina (brazi) se generó el archivo con la información del sistema utilizando fastfetch, y se subió al repositorio.
+En la VM de bearzotti se realizó un pull para incorporar ese archivo, agregar su propia información y volver a subir los cambios.
 
 3. Gestión de permisos
 
-En cada VM se creó el directorio /home/vagrant/BruchesUserX_espacio/, donde la X varía según corresponda (1, 2 o 3).
+En cada VM se creó el directorio /home/vagrant/(Alumno)_espacio/, donde la X varía según corresponda.
 Dentro de ese directorio se generaron los archivos privado.txt y publico.txt aplicando los permisos indicados:
 
 chmod 600 para el archivo privado
@@ -71,3 +70,6 @@ El informe de los errores detectados se encuentra dentro del directorio contened
 Se actualizaron los paquetes e instalaron las dependencias necesarias para el funcionamiento del servidor LAMP.
 Se crearon los archivos index.html, info.php y test_db.php en el directorio correspondiente.
 Finalmente, se accedió a la VM desde el navegador usando su IP, se tomaron las capturas y se realizaron todas las verificaciones indicadas.
+
+
+Aclaración final, nos quedaron archivos por fuera de la carpeta Proyecto los cuales decidimos no eliminar por no estar seguros de que altere algo dentro del git, dentro de nuestras vms no aparecían, solamente la carpeta nombrada anteriormente.
